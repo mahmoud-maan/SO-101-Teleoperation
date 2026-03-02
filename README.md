@@ -23,7 +23,7 @@ The follower arm (powered, ~12 V) mirrors the leader's joint positions in real-t
 ## Requirements
 
 - Python 3.10+
-- [vassar-feetech-servo-sdk]((https://github.com/vassar-robotics/feetech-servo-sdk.git))
+- [vassar-feetech-servo-sdk]([(https://github.com/vassar-robotics/feetech-servo-sdk.git)](https://github.com/vassar-robotics/feetech-servo-sdk.git))
 - Two USB-to-Serial adapters (one per arm)
 
 Install dependencies:
