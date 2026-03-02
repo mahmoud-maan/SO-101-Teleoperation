@@ -84,7 +84,9 @@ python teleoperate.py --frequency 100 --no-print
 ```
 
 ---
+## Demo
 
+A teleoperation example video is available at [`utils/teleop-example.mov`](utils/teleop-example.mov).
 ## Configuration
 
 All shared constants (servo IDs, names, type, voltage threshold, default frequency) live in [`config.py`](config.py).
