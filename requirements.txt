@@ -1,1 +1,1 @@
-vassar-feetech-servo-sdk
+vassar-feetech-servo-sdk == 1.5.0
